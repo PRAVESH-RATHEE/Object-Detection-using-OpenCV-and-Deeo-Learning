@@ -1,3 +1,9 @@
+#############################################
+# Object detection - YOLO - OpenCV
+# Author : Pravesh Rathee   (January 10, 2023)
+############################################
+
+
 import cv2
 import numpy as np 
 import argparse
